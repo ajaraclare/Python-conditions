@@ -6,10 +6,10 @@ if marks >100 or marks <0 :
 elif marks > 74:
     print("Grade A")
 
-elif marks > 49 :
+elif marks > 49:
     print("Grade B")
 
-elif marks > 24 :
+elif marks > 24:
     print("Grade C")
 
 else:
